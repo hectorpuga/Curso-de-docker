@@ -1,0 +1,12 @@
+{
+  "name": "cron-ticker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-cron": "^3.0.3"
+  }
+}
